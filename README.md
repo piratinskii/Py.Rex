@@ -54,7 +54,7 @@ You can configure the game settings in `src/config.py`:
 
 - `RESOLUTION`: Screen (area in the terminal) resolution (height, width) in symbols. By default it's 30x100
 - `MIN_DISTANCE_BETWEEN_CACTI`: Minimum distance between cacti. You can change it to increase/decrease the level of difficulty.
-- `DIFFICULTY`: Game difficulty multiplier.
+- `DIFFICULTY`: Game difficulty multiplier. 
 - `CACTUS_SPAWN_CHANCE`: Probability of a cactus spawning. This also affect the difficulty.
 
 ## Project Structure
