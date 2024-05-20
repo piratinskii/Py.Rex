@@ -22,13 +22,15 @@ Lose screen
 
 1. Clone the repository (use these commands in the terminal):    
    ```git clone https://github.com/piratinskii/Py.Rex.git```
+   
    ```cd Py.Rex``` 
 
-2. (Optional) Create a virtual environment:   
+3. (Optional) Create a virtual environment:   
    ```python -m venv venv```
+   
    ```source venv/bin/activate  # On Windows, use `venv\Scripts\activate```
 
-3. Install dependencies:    
+5. Install dependencies:    
    ```pip install -r requirements.txt``` 
 
 ## Usage 
